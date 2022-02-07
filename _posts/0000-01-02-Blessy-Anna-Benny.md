@@ -2,4 +2,4 @@
 layout: slide 
 title:"Welcome to github "
 ---
-Have a nice day
+Nice to meet you
